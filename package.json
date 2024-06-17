@@ -1,0 +1,24 @@
+{
+  "name": "modulo",
+  "version": "1.0.0",
+  "description": "Modulo Universidad",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git remote add origin https://github.com/JSebastianCCorrea/API-REST-MODULO-TW"
+  },
+  "author": "juan sebastian clavijo correa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JSebastianCCorrea/API-REST-MODULO-TW"
+  },
+  "homepage": "https://github.com/JSebastianCCorrea/API-REST-MODULO-TW",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.3.3"
+  }
+}
